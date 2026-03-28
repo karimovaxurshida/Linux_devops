@@ -1,0 +1,6 @@
+pwd 
+whoami
+ls
+cd
+cat
+nano
